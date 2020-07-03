@@ -21,14 +21,14 @@ Day 26 - Mujuco
 Day 27 - GymGo
 
 
-<img src="Images/Pacman.gif" alt="Fetch Slide"/> <img src="Images/SpaceInvaders.gif" alt="Pendulum"/> <img src="Images/Breakout-untrained.gif" alt="Doom Deathmatch"/>  
+<img src="Images/Pacman.gif" alt="Pacman"/> <img src="Images/SpaceInvaders.gif" alt="SpaceInvaders"/> <img src="Images/Breakout-untrained.gif" alt="Breakout"/>  
 <br>
 
 
 ### Opengym_MiniGrid.ipynb
 
-<img src="Images/MiniGrid-KeyCorridorS6R3-v0-randomevents.gif" alt="Fetch Slide"/> <img src="Images/MiniGrid-LavaGapS7-v0-randomevents.gif" alt="Pendulum"/>  
- <img src="Images/MiniGrid-Dynamic-Obstacles-16x16-v0-randomevents.gif" alt="Doom Deathmatch"/> <br>
+<img src="Images/MiniGrid-KeyCorridorS6R3-v0-randomevents.gif" alt="KeyCorridorS6R3"/> <img src="Images/MiniGrid-LavaGapS7-v0-randomevents.gif" alt="LavaGapS7"/>  
+ <img src="Images/MiniGrid-Dynamic-Obstacles-16x16-v0-randomevents.gif" alt="Dynamic-Obstacles"/> <br>
 
 
 ### Opengym_rubiks_cube_gym_env.ipynb
