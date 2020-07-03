@@ -1,7 +1,0 @@
-git init
-git add .
-git commit -m "First commit"
-git remote add origin #remote repository URL here#
-(eg        git remote add origin https://github.com/Amritpal-001/Stock-price-predicition.git   )
-git remote -v
-git push origin master   or   git push -f origin master
