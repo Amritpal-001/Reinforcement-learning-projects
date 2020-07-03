@@ -25,19 +25,10 @@ Day 27 - GymGo
 <br>
 
 
-![Breakout](Images/Pacman.gif)
-
-![Breakout](Images/SpaceInvaders.gif)
-
-![Breakout - Before Training](Images/Breakout-untrained.gif)
-
-
 ### Opengym_MiniGrid.ipynb
 
-<img src="Images/MiniGrid-KeyCorridorS6R3-v0-randomevents.gif" alt="Fetch Slide"/> <img src="Images/MiniGrid-LavaGapS7-v0-randomevents.gif" alt="Pendulum"/>  width = "164" height ="200" alt="Starcraft"/>
-<br>
-<img src="Images/MiniGrid-Dynamic-Obstacles-16x16-v0-randomevents.gif" alt="Doom Deathmatch"/> width = "164" height ="200"/>
-<br><br>
+<img src="Images/MiniGrid-KeyCorridorS6R3-v0-randomevents.gif" alt="Fetch Slide"/> <img src="Images/MiniGrid-LavaGapS7-v0-randomevents.gif" alt="Pendulum"/>  
+ <img src="Images/MiniGrid-Dynamic-Obstacles-16x16-v0-randomevents.gif" alt="Doom Deathmatch"/> <br>
 
 
 ### Opengym_rubiks_cube_gym_env.ipynb
